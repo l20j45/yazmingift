@@ -1,0 +1,24 @@
+:root{
+    --blueOne:#0958a0!important;
+}
+
+body{
+    
+}
+.onePieceBackground{
+    background-color: #cdb17a !important;
+}
+
+.onePieceBlue{
+    background-color: var(--blueOne);
+}
+
+.cursiva{
+    font-family: 'Nanum Brush Script', cursive ,sans-serif;
+}
+.onePieceFont{
+    font-family: 'Loved by the King', cursive,sans-serif;
+}
+.separador{
+    height: 20vh !important;
+}
